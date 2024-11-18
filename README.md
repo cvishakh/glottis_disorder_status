@@ -27,7 +27,7 @@ Make sure you have the following libraries installed:
 - `opencv-python`
 - `matplotlib` (for image visualization)
 
-- ### Contributing
+### Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Suggestions and improvements are welcome!
 
 ### Contact
