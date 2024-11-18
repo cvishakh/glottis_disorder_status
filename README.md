@@ -9,7 +9,7 @@ The Benchmark for Automatic Glottis Segmentation (BAGLS) dataset is a comprehens
 ### Contents of the Mini BAGLS Dataset
 - **Images**: RGB images that capture laryngeal frames.
 - **Masks**: Corresponding segmentation masks that highlight the regions of interest (e.g., the glottis area).
-- **Meta File**: A metadata file providing additional information about each image, such as annotations, frame details, or other relevant attributes.
+- **Meta File**: A metadata file providing additional information about each image, such as disorder status, annotations, frame details, and other relevant attributes.
 
 ## Objectives
 1. **Familiarize with Image Datasets**: Understand the structure and components of a real-world image dataset.
